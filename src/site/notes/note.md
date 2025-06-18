@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/note/"}
 ---
 
 A note in a garden
